@@ -70,6 +70,8 @@ Answering these questions helps product and growth teams prioritize **onboarding
 * **Metric Design (Retention, Repeat Rate, LTV Proxies)**
 
 ---
+## Dashboard
+<img width="2000" height="1140" alt="image" src="https://github.com/user-attachments/assets/2173de75-ad29-418a-ae85-b46ef92a63b0" />
 
 ## Results and Business Recommendations
 
