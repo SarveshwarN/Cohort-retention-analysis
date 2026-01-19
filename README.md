@@ -97,6 +97,3 @@ Answering these questions helps product and growth teams prioritize **onboarding
 * Perform **A/B test analysis** on retention improvement initiatives
 * Build predictive models to identify **high-risk churn users**
 
----
-Just tell me what’s next.
-
