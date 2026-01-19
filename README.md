@@ -1,4 +1,4 @@
-# 📊 Cohort Retention Analytics (End-to-End | Microsoft Fabric + Power BI)
+# Cohort-Retention-Analytics 
 
 ---
 
